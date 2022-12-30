@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @babinns
-- 👀 I’m interested in backend  and Data Analysis 
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning Javascript with NodeJS
 - 💞️ I’m looking to collaborate on innovating projects 
 - 📫 How to reach me barbaranl.business@hotmail.com
