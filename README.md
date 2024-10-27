@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @babinns
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Javascript with NodeJS
-- 💞️ I’m looking to collaborate on innovating projects 
-- 📫 How to reach me barbaranl.business@hotmail.com
+- 👀 I’m interested in backend development but also learning frontend (sometimes enchanted by thoughts of ds and automation #toomuch)
+- 🌱 I’m currently developing a 'Smart Pantry' 'App' with MERN stack which has been a project of mine for some time but I'm focused on finishing it.
+- 💞️ I’m looking to collaborate on innovating projects and hopefully have an opportunity 
+- 📫 How to reach me barbaranl.business@gmail.com
 
-<!---
-babinns/babinns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Some projects I've made are private in my profile due to the possibility of containing sensitive info regarding company data.
+Ex: excel sheets cleaning and automation with py.
+features(pages, functionality) added to private web pages. 
