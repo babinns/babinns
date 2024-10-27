@@ -6,4 +6,4 @@
 
 Some projects I've made are private in my profile due to the possibility of containing sensitive info regarding company data.
 Ex: excel sheets cleaning and automation with py.
-features(pages, functionality) added to private web pages. 
+features(pages, functionality with nodejs) added to private web pages. 
